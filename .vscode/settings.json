@@ -5,6 +5,12 @@
         "editor.insertSpaces": false,
         "editor.detectIndentation": false
     },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml",
+        "editor.tabSize": 4,
+        "editor.insertSpaces": false,
+        "editor.detectIndentation": false
+    },
     "maven.terminal.favorites": [
         {
             "command": "package -DskipTests=true",

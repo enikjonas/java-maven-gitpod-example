@@ -14,3 +14,4 @@ vscode:
     - vscjava.vscode-maven
     - eamodio.gitlens
     - redhat.fabric8-analytics
+    - redhat.vscode-xml
