@@ -15,3 +15,4 @@ vscode:
     - eamodio.gitlens
     - redhat.fabric8-analytics
     - redhat.vscode-xml
+    - vscjava.vscode-gradle
